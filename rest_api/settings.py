@@ -28,7 +28,7 @@ DEBUG = config('DEBUG')
 
 # SECURITY WARNING: don't run with debug turned on in production!
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['next-api-lesson.herokuapp.com']
 
 
 # Application definition
